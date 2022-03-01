@@ -1,0 +1,2 @@
+19-Oct-2018 15:00:56 - Start
+19-Oct-2018 15:34:14 - Error: Can't collect data for Unit #0. Open new Unit first

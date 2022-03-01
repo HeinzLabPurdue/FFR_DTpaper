@@ -1,0 +1,4 @@
+26-Jul-2019 17:44:08 - Start
+26-Jul-2019 19:48:41 - Start
+26-Jul-2019 19:59:26 - Error: Error using fprintf
+Invalid file identifier. Use fopen to generate a valid file identifier.

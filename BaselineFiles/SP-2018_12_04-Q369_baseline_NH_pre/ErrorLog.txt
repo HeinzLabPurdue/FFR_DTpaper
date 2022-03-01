@@ -1,0 +1,13 @@
+04-Dec-2018 16:42:07 - Start
+04-Dec-2018 18:43:26 - Start
+13-Jan-2019 17:20:44 - Start
+13-Jan-2019 17:20:53 - Error: Failed to connect to RP2 #1
+13-Jan-2019 17:20:53 - Error: Failed to connect to RP2 #2
+13-Jan-2019 17:20:53 - Error: Failed to connect to PA #1
+13-Jan-2019 17:20:53 - Error: Failed to connect to PA #2
+13-Jan-2019 17:20:53 - Error: Failed to connect to PA #3
+13-Jan-2019 17:20:53 - Error: Failed to connect to PA #4
+13-Jan-2019 17:20:53 - Error: PAset: Can't set attenuation on PA #1
+13-Jan-2019 17:20:53 - Error: PAset: Can't set attenuation on PA #2
+13-Jan-2019 17:20:53 - Error: PAset: Can't set attenuation on PA #3
+13-Jan-2019 17:20:53 - Error: PAset: Can't set attenuation on PA #4
